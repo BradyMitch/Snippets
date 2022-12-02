@@ -1,0 +1,18 @@
+:root {
+	--box-margin: 0px;
+	--box-background-color: beige;
+}
+
+.Box {
+	width: calc(100% - (var(--box-margin) * 2));
+	height: calc(100% - (var(--box-margin) * 2));
+	display: flex;
+	background-color: var(--box-background-color);
+}
+
+.box-center-horizontal {
+	justify-content: center;
+}
+.box-center-vertical {
+	align-items: center;
+}
