@@ -18,7 +18,7 @@ I try to follow best practices, and keep my examples type safe using TypeScript.
 ```
 
 ## Getting Started
-Follow these steps to load up the Vite React Typescript application.
+Follow these 2 easy steps to load up the Vite React Typescript application.
 
 <!-- STEP 1 -->
 <p>
